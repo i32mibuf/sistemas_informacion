@@ -1,4 +1,3 @@
-# sistemas_informacion
 # P3T H3LP
 
 > Integración de GitHub con Slack para la gestión eficiente de proyectos en el equipo **P3T H3LP**.
