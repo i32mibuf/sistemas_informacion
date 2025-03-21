@@ -14,7 +14,7 @@ Este repositorio se encuentra vinculado a un canal de Slack para facilitar la co
 Para vincular este repositorio con Slack:
 1. En Slack, escribe el siguiente comando:
    ```bash
-   /github subscribe P3T-H3LP/repositorio
+   /github subscribe i32mibuf/sistemas_informacion
    ```
 2. Si es la primera vez que te conectas, autentícate con tu cuenta de GitHub usando el comando:
    ```bash
