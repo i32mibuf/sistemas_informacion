@@ -1,6 +1,6 @@
 # P3T H3LP
 
-> Integración de GitHub con Slack para la gestión eficiente de proyectos en el equipo **P3T H3LP**.
+> Integración de GitHub con Slack para la gestión eficiente de **P3T H3LP**.
 
 ## 🚀 Descripción del Proyecto
 Este repositorio se encuentra vinculado a un canal de Slack para facilitar la comunicación, el seguimiento de cambios en el código y la gestión de tareas del equipo **P3T H3LP**. La integración permite recibir notificaciones automáticas sobre:
